@@ -1,0 +1,39 @@
+  @charset "utf-8";
+  /* CSS Document */
+  <style type="text/css">
+  #btn{
+	   display: inline-block;
+	   margin: 0px 0px;
+  }
+  #btn0{
+	  display: inline-block;
+	   margin: 0px -90px;
+  }
+  #btn1{
+	  display: inline-block;
+	   margin: 0px -20px;
+  }
+  #btn2{
+	  display: inline-block;
+	   margin: 0px 150px;
+  }
+  #btn3{
+	  display: inline-block;
+	   margin: 0px -150px;
+  }
+  #btn4{
+	  display: inline-block;
+	   margin: 0px -20px;
+  }
+  .kl:hover{
+	box-shadow: 0px 2px 0px gray;
+	background: #00F;
+	}
+  
+  .fg{
+	  border:1px solid #fff; 
+	  height:400px; 
+	  width:430px; 
+	  background-color:#000;
+  }
+  </style>
